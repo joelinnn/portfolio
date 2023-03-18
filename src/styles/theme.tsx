@@ -1,7 +1,7 @@
 import { extendTheme } from '@chakra-ui/react'
 
 const fonts = {
-  sans: `'Noirden', sans-serif`,
+  sans: `'Inter', sans-serif`,
   mono: `'Menlo', monospace`
 }
 

@@ -16,7 +16,7 @@ export const Header = () => {
         </Stack>
       </Flex>
 
-      <Stack direction="row" align='center' fontWeight=''>
+      <Stack direction="row" align='center' fontWeight='bold'>
         <Link href='/' > Home </Link>
         <Link href='/about'> About </Link>
         <Link href='/projects'> Projects </Link>

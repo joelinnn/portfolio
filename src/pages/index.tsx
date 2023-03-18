@@ -5,7 +5,7 @@ const HomeDescription =  `I'm a software engineer that enjoys creating innovativ
 
 export default function Home() {
   return (
-    <Container fontFamily='Poppins' maxW='850px' paddingTop='3em'>
+    <Container fontFamily='sans-serif' maxW='850px' paddingTop='3em'>
       <Header />
       <Description title={`Hi, I'm Joe`} description={HomeDescription}/>
     </Container >
