@@ -1,0 +1,1 @@
+My portolio app that was developed using NextJS and Typescript.
