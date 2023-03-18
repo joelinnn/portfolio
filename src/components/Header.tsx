@@ -1,5 +1,4 @@
-import { Flex, Heading, Link, Text, Stack, Avatar, Container } from '@chakra-ui/react'
-import { DarkMode } from '@/components'
+import { Flex, Heading, Link, Text, Stack, Avatar } from '@chakra-ui/react'
 
 export const Header = () => {
   return (
