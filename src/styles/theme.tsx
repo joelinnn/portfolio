@@ -1,15 +1,15 @@
 import { extendTheme } from '@chakra-ui/react'
 
 const fonts = {
-  sans: `'Poppins', sans-serif`,
+  sans: `'Noirden', sans-serif`,
   mono: `'Menlo', monospace`
 }
 
 const breakpoints = {
-  sm: '40em',
-  md: '52em',
-  lg: '64em',
-  xl: '80em',
+  sm: '18',
+  md: '22',
+  lg: '24',
+  xl: '32',
 }
 
 

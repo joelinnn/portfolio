@@ -1,3 +1,6 @@
 export * from './Header'
 export * from './DarkMode'
 export * from './Hero'
+export * from './Description'
+export * from './Body'
+export * from './Footer'

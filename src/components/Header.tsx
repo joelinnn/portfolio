@@ -5,9 +5,6 @@ export const Header = () => {
   return (
     <Flex
       justifyContent="space-between"
-      p={5}
-      backdropFilter="auto"
-      backdropBlur="6px"
     >
       <Flex align='center'>
         <Avatar src='pfp.png' size='xl'/>
@@ -19,12 +16,11 @@ export const Header = () => {
         </Stack>
       </Flex>
 
-      <Stack direction="row" align='center'>
+      <Stack direction="row" align='center' fontWeight=''>
         <Link>Home</Link>
         <Link>About</Link>
         <Link>Projects</Link>
-        <Link>Contact</Link>
-        <DarkMode />
+        <Link href='/contact'>Contact</Link>
       </Stack>
     </Flex >
   )
